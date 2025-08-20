@@ -1,6 +1,7 @@
 ## Тестовое задание для Effective Mobile
 
 **Для запуска проекта достаточно**
+ - composer install
  - Настроить .env
  - php artisan migrate --seed (Сиды просто добавляют 10 тестовых задач)
  - php artisan serve
